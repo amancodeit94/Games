@@ -1,1 +1,1 @@
-# Javascript Game-Shooting Jet
+# Javascript Game-Shooting Jet-Intuitive Environment
